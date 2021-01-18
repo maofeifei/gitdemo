@@ -1,1 +1,331 @@
-<mxfile host="app.diagrams.net" modified="2021-01-18T07:24:23.678Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" version="14.2.4" etag="74UPF_OsNWuo3-XlVuwM" type="github"><diagram id="OWeMT1zNz0WXE2OhOVN6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-18T08:15:24.586Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="X-sBe9a-boeYItrqavSo" version="14.2.4" type="github">
+  <diagram id="OWeMT1zNz0WXE2OhOVN6" name="Page-1">
+    <mxGraphModel dx="353" dy="242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IviWWQVitIV-rVUBcDRv-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.415;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IviWWQVitIV-rVUBcDRv-1" target="IviWWQVitIV-rVUBcDRv-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="135" y="240" />
+              <mxPoint x="216" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-1" value="新希望化工投资" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="180" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IviWWQVitIV-rVUBcDRv-2" target="IviWWQVitIV-rVUBcDRv-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-2" value="刘永言" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="10" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IviWWQVitIV-rVUBcDRv-3" target="IviWWQVitIV-rVUBcDRv-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="150" />
+              <mxPoint x="445" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IviWWQVitIV-rVUBcDRv-3" target="IviWWQVitIV-rVUBcDRv-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="150" />
+              <mxPoint x="135" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.545;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IviWWQVitIV-rVUBcDRv-3" target="IviWWQVitIV-rVUBcDRv-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="150" />
+              <mxPoint x="320" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-3" value="新希望集团" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="90" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.41;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IviWWQVitIV-rVUBcDRv-5" target="IviWWQVitIV-rVUBcDRv-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="315" y="240" />
+              <mxPoint x="215" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-5" value="南方希望实业" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="180" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-6" value="新网银行" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="390" y="180" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IviWWQVitIV-rVUBcDRv-13" target="IviWWQVitIV-rVUBcDRv-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-13" value="刘永好" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="10" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-17" value="62.34%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="70" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-18" value="100%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="160" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-20" value="51%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-21" value="30%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="160" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IviWWQVitIV-rVUBcDRv-22" target="IviWWQVitIV-rVUBcDRv-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IviWWQVitIV-rVUBcDRv-22" target="IviWWQVitIV-rVUBcDRv-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-22" value="宝硕股份" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="260" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-26" value="6.41%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="220" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-27" value="10.76%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="230" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-29" value="保定银行" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="220" y="340" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IviWWQVitIV-rVUBcDRv-32" target="IviWWQVitIV-rVUBcDRv-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-32" value="宝硕股份" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="110" y="340" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-35" value="0.03%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="320" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-36" value="97.44%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="320" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-37" value="华创期货" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="110" y="420" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-39" value="62.5%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="400" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-40" value="华创期货" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="280" y="520" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IviWWQVitIV-rVUBcDRv-41" target="IviWWQVitIV-rVUBcDRv-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="435" y="310" />
+              <mxPoint x="565" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IviWWQVitIV-rVUBcDRv-41" target="IviWWQVitIV-rVUBcDRv-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="435" y="310" />
+              <mxPoint x="385" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.57;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IviWWQVitIV-rVUBcDRv-41" target="IviWWQVitIV-rVUBcDRv-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="435" y="310" />
+              <mxPoint x="480" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-41" value="新希望" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="265" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-42" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="150" as="sourcePoint" />
+            <mxPoint x="510" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-43" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="240" as="sourcePoint" />
+            <mxPoint x="510" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-45" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="240" as="sourcePoint" />
+            <mxPoint x="510" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-47" value="" style="endArrow=none;html=1;entryX=0.723;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="IviWWQVitIV-rVUBcDRv-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="240" as="sourcePoint" />
+            <mxPoint x="380" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-48" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="IviWWQVitIV-rVUBcDRv-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="435" y="240" as="sourcePoint" />
+            <mxPoint x="370" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-49" value="民生人寿" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="440" y="330" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-50" value="山东新希望&lt;br&gt;六和集团" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="330" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IviWWQVitIV-rVUBcDRv-51" target="IviWWQVitIV-rVUBcDRv-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-51" value="新希望投资" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="330" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-55" value="29.54%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="240" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-56" value="23.98%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="240" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-57" value="100%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="310" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-58" value="3.39%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="310" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-59" value="75%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="310" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-60" value="" style="endArrow=classic;html=1;exitX=0.611;exitY=1.062;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.525;entryY=-0.071;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IviWWQVitIV-rVUBcDRv-5" target="IviWWQVitIV-rVUBcDRv-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="330" as="sourcePoint" />
+            <mxPoint x="328" y="486" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="328" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-61" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="150" as="sourcePoint" />
+            <mxPoint x="140" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-62" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="490.45717075892856" as="sourcePoint" />
+            <mxPoint x="50" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-63" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="490" as="sourcePoint" />
+            <mxPoint x="520" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-64" value="" style="endArrow=none;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="IviWWQVitIV-rVUBcDRv-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="490" as="sourcePoint" />
+            <mxPoint x="100" y="270" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-65" value="42.5%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="470" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-66" value="8.5%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="470" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-69" value="9%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="470" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-71" value="" style="endArrow=none;html=1;exitX=0.419;exitY=1.029;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="IviWWQVitIV-rVUBcDRv-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="460" as="sourcePoint" />
+            <mxPoint x="380" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-72" value="6%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="470" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-73" value="" style="endArrow=none;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="IviWWQVitIV-rVUBcDRv-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="490" as="sourcePoint" />
+            <mxPoint x="460" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-74" value="34%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="470" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-75" value="民生银行" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="530" y="390" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-78" value="" style="endArrow=none;html=1;exitX=1.008;exitY=0.594;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.03;entryY=0.576;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IviWWQVitIV-rVUBcDRv-13" target="IviWWQVitIV-rVUBcDRv-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="60" as="sourcePoint" />
+            <mxPoint x="450" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-79" value="兄弟" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="455" y="40" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IviWWQVitIV-rVUBcDRv-81" target="IviWWQVitIV-rVUBcDRv-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IviWWQVitIV-rVUBcDRv-81" target="IviWWQVitIV-rVUBcDRv-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-81" value="大陆希望集团" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="595" y="100" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-83" value="4.18%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="370" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-84" value="成都希望&lt;br&gt;大陆实业" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="180" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IviWWQVitIV-rVUBcDRv-85" target="IviWWQVitIV-rVUBcDRv-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-85" value="四川希望深蓝能源化工" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="670" y="180" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-89" value="乐山市商业银行" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="630" y="260" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-92" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="240" as="sourcePoint" />
+            <mxPoint x="670" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-94" value="" style="endArrow=none;html=1;entryX=0.404;entryY=1.076;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="IviWWQVitIV-rVUBcDRv-84">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="588" y="240" as="sourcePoint" />
+            <mxPoint x="580" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-95" value="6.84%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="220" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-97" value="3.14%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="220" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-98" value="控股金融机构" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="520" y="540" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IviWWQVitIV-rVUBcDRv-99" value="参股金融机构" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="630" y="540" width="96" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
