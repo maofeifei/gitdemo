@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-18T06:31:35.972Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="AF7zxwkHGmfW7ZTSuxTS" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-18T06:45:44.035Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="5oYfoHbDmYbwNDA-e9vX" version="14.2.4" type="github">
   <diagram id="YMg1hjqPTZ2gVe7zv7V6" name="Page-1">
-    <mxGraphModel dx="483" dy="292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="483" dy="326" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,7 +12,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="33cMaDg9XoKLb8V7PIvq-1" value="何享健" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="33cMaDg9XoKLb8V7PIvq-1" value="何享健" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="220" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="33cMaDg9XoKLb8V7PIvq-46" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 3;endArrow=none;strokeWidth=2;strokeColor=none;" edge="1" parent="1" source="33cMaDg9XoKLb8V7PIvq-2">
@@ -42,7 +42,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="33cMaDg9XoKLb8V7PIvq-2" value="美的集团" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="33cMaDg9XoKLb8V7PIvq-2" value="美的集团" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="225" y="240" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="33cMaDg9XoKLb8V7PIvq-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="33cMaDg9XoKLb8V7PIvq-3" target="33cMaDg9XoKLb8V7PIvq-26">
@@ -61,7 +61,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="33cMaDg9XoKLb8V7PIvq-3" value="何剑锋" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="33cMaDg9XoKLb8V7PIvq-3" value="何剑锋" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="500" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="33cMaDg9XoKLb8V7PIvq-9" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="33cMaDg9XoKLb8V7PIvq-1" target="33cMaDg9XoKLb8V7PIvq-3">
@@ -82,7 +82,7 @@
         <mxCell id="33cMaDg9XoKLb8V7PIvq-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="33cMaDg9XoKLb8V7PIvq-12" target="33cMaDg9XoKLb8V7PIvq-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="33cMaDg9XoKLb8V7PIvq-12" value="美的控股" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="33cMaDg9XoKLb8V7PIvq-12" value="美的控股" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#ffffff;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="294" y="150" width="96" height="40" as="geometry" />
         </mxCell>
         <mxCell id="33cMaDg9XoKLb8V7PIvq-21" value="94.55%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -105,7 +105,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="33cMaDg9XoKLb8V7PIvq-26" value="盈峰投资&lt;br&gt;控股公司" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="33cMaDg9XoKLb8V7PIvq-26" value="盈峰投资&lt;br&gt;控股公司" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="570" y="160" width="96" height="40" as="geometry" />
         </mxCell>
         <mxCell id="33cMaDg9XoKLb8V7PIvq-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="33cMaDg9XoKLb8V7PIvq-29" target="33cMaDg9XoKLb8V7PIvq-89">
@@ -120,7 +120,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="33cMaDg9XoKLb8V7PIvq-29" value="盈峰环境" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="33cMaDg9XoKLb8V7PIvq-29" value="盈峰环境" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="450" y="230" width="96" height="40" as="geometry" />
         </mxCell>
         <mxCell id="33cMaDg9XoKLb8V7PIvq-31" value="91%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -154,25 +154,25 @@
             <mxPoint x="680" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="33cMaDg9XoKLb8V7PIvq-41" value="小天鹅" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="33cMaDg9XoKLb8V7PIvq-41" value="小天鹅" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="380" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="33cMaDg9XoKLb8V7PIvq-82" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="33cMaDg9XoKLb8V7PIvq-42" target="33cMaDg9XoKLb8V7PIvq-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="33cMaDg9XoKLb8V7PIvq-42" value="美的电器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="33cMaDg9XoKLb8V7PIvq-42" value="美的电器" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="290" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="33cMaDg9XoKLb8V7PIvq-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;strokeWidth=1;" edge="1" parent="1" source="33cMaDg9XoKLb8V7PIvq-43" target="33cMaDg9XoKLb8V7PIvq-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="33cMaDg9XoKLb8V7PIvq-43" value="美的控股(开曼)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="33cMaDg9XoKLb8V7PIvq-43" value="美的控股(开曼)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="160" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="33cMaDg9XoKLb8V7PIvq-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;strokeWidth=1;" edge="1" parent="1" source="33cMaDg9XoKLb8V7PIvq-44" target="33cMaDg9XoKLb8V7PIvq-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="33cMaDg9XoKLb8V7PIvq-44" value="美的国际控股" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="33cMaDg9XoKLb8V7PIvq-44" value="美的国际控股" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="50" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="33cMaDg9XoKLb8V7PIvq-59" value="100%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -190,8 +190,8 @@
         <mxCell id="33cMaDg9XoKLb8V7PIvq-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;strokeWidth=1;" edge="1" parent="1" source="33cMaDg9XoKLb8V7PIvq-66" target="33cMaDg9XoKLb8V7PIvq-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="33cMaDg9XoKLb8V7PIvq-66" value="威灵控股" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="390" width="80" height="40" as="geometry" />
+        <mxCell id="33cMaDg9XoKLb8V7PIvq-66" value="威灵控股" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="400" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="33cMaDg9XoKLb8V7PIvq-69" value="2.25%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="360" width="40" height="20" as="geometry" />
@@ -207,7 +207,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="33cMaDg9XoKLb8V7PIvq-71" value="广东威灵电机制造" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="33cMaDg9XoKLb8V7PIvq-71" value="广东威灵电机制造" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="100" y="460" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="33cMaDg9XoKLb8V7PIvq-73" value="100%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -242,7 +242,7 @@
         <mxCell id="33cMaDg9XoKLb8V7PIvq-80" value="95%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="510" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="33cMaDg9XoKLb8V7PIvq-81" value="金鹰基金" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="33cMaDg9XoKLb8V7PIvq-81" value="金鹰基金" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="290" y="390" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="33cMaDg9XoKLb8V7PIvq-83" value="20%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="1">
@@ -275,7 +275,7 @@
         <mxCell id="33cMaDg9XoKLb8V7PIvq-99" style="edgeStyle=elbowEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="33cMaDg9XoKLb8V7PIvq-97" target="33cMaDg9XoKLb8V7PIvq-98">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="33cMaDg9XoKLb8V7PIvq-97" value="佛山市顺德区美的技术投资" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="33cMaDg9XoKLb8V7PIvq-97" value="佛山市顺德区美的技术投资" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="630" y="380" width="96" height="40" as="geometry" />
         </mxCell>
         <mxCell id="33cMaDg9XoKLb8V7PIvq-103" style="edgeStyle=elbowEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="33cMaDg9XoKLb8V7PIvq-98" target="33cMaDg9XoKLb8V7PIvq-101">
